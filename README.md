@@ -38,7 +38,7 @@ Protótipos das principais páginas foram elaborados, incluindo:
 - Página de gerenciamento de responsáveis, alunos e professores.
  
 
-Os protótipos podem ser encontrados neste [clicando aqui.](https://www.figma.com/proto/O80paCZxU26XILEg9mykap/Escola?node-id=1-482&p=f&t=u9uqPbGQJgaJmU01-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A482)
+Os protótipos podem ser encontrados [clicando aqui.](https://www.figma.com/proto/O80paCZxU26XILEg9mykap/Escola?node-id=1-482&p=f&t=u9uqPbGQJgaJmU01-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A482)
 
 ---
 
