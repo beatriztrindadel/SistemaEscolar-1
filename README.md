@@ -43,6 +43,6 @@ Os protótipos podem ser encontrados [clicando aqui.](https://www.figma.com/prot
 ### 5. Como acessar
 
 Baixe o arquivo zipado que estarei disponibilizando para acessar o sistema.
-Usuário e senha para login: aluno@email.com senha: aluno123
+Usuário e senha para login: aluno@email.com senha: aluno123 (depois só atualizar para a página inicial)
 
 
